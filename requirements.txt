@@ -1,0 +1,6 @@
+beir
+datasets
+sentence_transformers
+transformers
+git-lfs
+huggingface_hub
